@@ -24,6 +24,6 @@ Our mission is to revolutionize education by:
 * LinkedIn: https://in.linkedin.com/company/campus-sutra
 * Facebook: https://www.facebook.com/CampusSutra/
 * Instagram: https://www.instagram.com/campussutra/?hl=en
-* Twitter: https://twitter.com/campusshoes?lang=en
+* Twitter: [https://twitter.com/campusshoes?lang=en](https://twitter.com/campussutras)
 
 **We believe in the transformative power of education. Let's shape a brighter future together!**
