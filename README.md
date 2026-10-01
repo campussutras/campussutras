@@ -1,78 +1,71 @@
-<div align="center">
+# Campussutras
 
-# 🚀 Campussutras
-### Bridging College to Industry • Practical Training • Verified Credentials
+Practical Training and Workforce Development Platform
 
-[![Website](https://img.shields.io/badge/Official_Website-campussutras.com-002255?style=for-the-badge&logo=google-chrome&logoColor=white)](https://campussutras.com)
-[![Bootcamps](https://img.shields.io/badge/Explore_Bootcamps-12_Tracks-0b57d0?style=for-the-badge&logo=codeforces&logoColor=white)](https://campussutras.com/courses)
-[![Assessments](https://img.shields.io/badge/Free_Assessments-30_Skills-059669?style=for-the-badge&logo=checkmarx&logoColor=white)](https://campussutras.com/assessments)
-[![Verify Certificate](https://img.shields.io/badge/Verify_Credential-Instant_Lookup-d97706?style=for-the-badge&logo=open-badges&logoColor=white)](https://campussutras.com/verify-certificate)
+Campussutras Private Limited is an education and training company based in India. Founded in 2023, we help college students bridge the gap between academic studies and industry expectations through practical bootcamps, project-based internships, and verified credentials.
 
-<br/>
-
-**Campussutras** is India's premier workforce-training and EdTech platform bridging academia and practical corporate expectations through intensive **90-day technical bootcamps**, **project-based internships**, and **tamper-proof verified credentials**.
-
-<br/>
+We have trained over 50,000 students across 50+ partner colleges nationwide.
 
 ---
 
-### 📊 Campussutras Impact at a Glance
+## About the Company
 
-| 🎓 Students Trained | 🏫 Partner Colleges | 💻 Career Tracks | ⭐️ Satisfaction Rate |
-| :---: | :---: | :---: | :---: |
-| **50,000+** | **50+ Across India** | **12 Intensive Bootcamps** | **4.9 / 5.0 Rating** |
+Campussutras works directly with university students, college placement cells (TPOs), and corporate hiring partners. Our training focuses on real-world practical skills rather than theory, preparing students for technical roles in software engineering, data analytics, and modern technology domains.
 
----
-
-</div>
-
-## 💡 What We Do
-
-### 1. 🎯 90-Day Industry Bootcamps
-Immersive, practical training designed for engineering and management students (B.Tech, BCA, MCA, MBA, BBA). Focuses on building production-grade capstone projects rather than theoretical slides.
-- **Full Stack Web Development** (Next.js, React, Node.js, Express)
-- **Applied Generative AI & Python** (LangChain, OpenAI, LLM fine-tuning)
-- **Data Analytics & Business Intelligence** (Power BI, SQL, Python, Advanced Excel)
-- **Cloud & DevOps Engineering** (AWS, Docker, CI/CD, Linux)
-- **Enterprise Java & Microservices** (Spring Boot, Hibernate, Kafka)
-
-### 2. ⚡ Free Skill Diagnostic Hub
-Interactive, timed coding and architectural assessments across 30+ domains. Students get immediate topic-wise analytics, solution breakdowns, and verifiable achievement badges.
-
-### 3. 📜 Instant Credential Verification
-Every student graduating from our cohorts receives a globally verifiable digital diploma with a unique certificate ID and dynamic QR code lookup at `campussutras.com/verify-certificate`.
-
-### 4. 🤝 Campus Placement & Corporate Hiring
-We partner with university placement cells (TPOs) and 100+ hiring partners to provide pre-assessed, project-trained fresher talent ready for Day 1 deployment.
+### Key Highlights
+- **50,000+** Students Trained
+- **50+** Partner Colleges and Universities
+- **12** Practical Career Tracks
+- **4.9 / 5.0** Student Satisfaction Rating
 
 ---
 
-## 🛠️ Technology Stack & Tools Taught
+## What We Do
 
-<div align="center">
-
-| Area | Technologies & Frameworks |
-| :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2D1?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
-| **Data & AI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-
-</div>
+1. **Practical Bootcamps:** Hands-on training programs in Full Stack Web Development, Python, Artificial Intelligence, Data Analytics, and Cloud Computing.
+2. **Project-Based Internships:** Guided project sprints where students build portfolio-ready applications.
+3. **Free Skill Assessments:** Online technical tests covering core programming and data skills with instant scoring.
+4. **Certificate Verification:** A digital verification system that allows students, colleges, and employers to confirm authentic certificates online.
+5. **Corporate Hiring Partnerships:** Helping companies hire pre-assessed, project-trained freshers for technical roles.
 
 ---
 
-## 🌐 Connect With Campussutras
+## Training Tracks
 
-<div align="center">
+- Full Stack Web Development (React, Next.js, Node.js)
+- Python Programming and Artificial Intelligence
+- Data Analytics and Power BI
+- Java Enterprise and Backend Development
+- Cloud Computing and DevOps
+- Professional Skills and Campus Placement Preparation
 
-[![Website](https://img.shields.io/badge/Website-campussutras.com-002255?style=for-the-badge&logo=google-chrome&logoColor=white)](https://campussutras.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CampusSutras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/campussutras)
-[![Instagram](https://img.shields.io/badge/Instagram-@campussutras-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/campussutras)
-[![Email](https://img.shields.io/badge/Inquiries-info@campussutras.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@campussutras.com)
+---
 
-<br/>
+## Important Links
 
-<sub>© 2026 Campussutras Private Limited. All Rights Reserved. • Transforming Technical Education in India.</sub>
+- **Official Website:** [https://campussutras.com](https://campussutras.com)
+- **Explore Courses:** [https://campussutras.com/courses](https://campussutras.com/courses)
+- **Free Assessments:** [https://campussutras.com/assessments](https://campussutras.com/assessments)
+- **Internship Program:** [https://campussutras.com/internship](https://campussutras.com/internship)
+- **Hire Freshers:** [https://campussutras.com/hire](https://campussutras.com/hire)
+- **Verify Certificate:** [https://campussutras.com/verify-certificate](https://campussutras.com/verify-certificate)
 
-</div>
+---
+
+## Contact Information
+
+For student admissions, college partnerships, and corporate hiring inquiries:
+
+- **Entity Name:** Campussutras Private Limited
+- **Headquarters:** Dehradun, Uttarakhand, India
+- **General Inquiries:** info@campussutras.com
+- **Website:** [https://campussutras.com](https://campussutras.com)
+
+### Official Channels
+- **LinkedIn:** [https://www.linkedin.com/company/campussutras](https://www.linkedin.com/company/campussutras)
+- **Instagram:** [https://www.instagram.com/campussutras](https://www.instagram.com/campussutras)
+- **X (Twitter):** [https://twitter.com/campussutras](https://twitter.com/campussutras)
+
+---
+
+<sub>© Campussutras Private Limited. All rights reserved.</sub>
