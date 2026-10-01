@@ -57,7 +57,7 @@ Campussutras works directly with university students, college placement cells (T
 For student admissions, college partnerships, and corporate hiring inquiries:
 
 - **Entity Name:** Campussutras Private Limited
-- **Headquarters:** Dehradun, Uttarakhand, India
+- **Headquarters:** Noida, Uttar Pradesh, India
 - **General Inquiries:** info@campussutras.com
 - **Website:** [https://campussutras.com](https://campussutras.com)
 
